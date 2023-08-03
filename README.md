@@ -51,7 +51,7 @@ Estes estudo foram propiciados pelo Prof. Gustavo Guanabara, esses e outro mater
         <li>✔️<a href="https://matheusnss.github.io/html-css/desafios/d007/index.html" target='_blank'>d07</a></li>
         <li>✔️<a href="https://matheusnss.github.io/html-css/desafios/d008/index-cinza.html" target='_blank'>d08</a></li>
         <li>✔️<a href="https://matheusnss.github.io/html-css/desafios/d009/index.html" target='_blank'>d09</a></li>
-        <li>✔️<a href="https://matheusnss.github.io/html-css/desafios/d010/andrid.html" target='_blank'>d10</a></li>
+        <li>✔️<a href="https://matheusnss.github.io/html-css/desafios/d010/android.html" target='_blank'>d10</a></li>
     </ul> 
 </p>
 
